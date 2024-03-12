@@ -2,9 +2,19 @@
 ## People.Robert Murray-Smith
 
 sch: https://www.youtube.com/@ThinkingandTinkering/search?query=stirling
+
+- [1414 Types Of Stirling Engine](https://youtu.be/Q9iddCGpr7Y)
+- [1900 Stirling Engines Galore And Blade's Competition](https://youtu.be/kxAeSJ4BUT4)
 - [1698 Power For Everyone A Cheap Easy To Build Stirling Engine I May Have Invented](https://youtu.be/CAMlDV8n25Q)
 - [1622 The Best Insulation For A Rocket Stove And How To Make It](https://youtu.be/neTGwG0QwDs)
 - [2114 Rethinking A Stirling Engine With Rubber](https://youtu.be/7IYXfo84uEs)
+
+# Types:
+- [Alpha, Beta and Gamma style Stirling engines](https://youtu.be/lbqpyXN9H6I)
+
+## Thermoacoustic
+- [Thermo Acoustic Stirling Engine - Simply Genius (4K)](https://youtu.be/TEiBScfR4Vk)
+- [Thermo Acoustic Engine](https://youtu.be/wg96lDw7sNw)
 
 # Build:
 - [DIY Stirling engine CHP to go off the grid in the energy crisis](https://youtu.be/QzxW8BD7Fxk)
